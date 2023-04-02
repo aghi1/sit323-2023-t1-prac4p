@@ -1,0 +1,32 @@
+{"level":"info","message":"Parameters 2 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 15 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 20000 and 500 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 20000 and 500 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 15 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 15 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 15 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 20 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 7500000 and 5 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 7500000 and 27 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 7500000 and 27000000 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 7500000 and 27000000 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 75 and 27 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 75 and 30 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 75 and 35 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 60 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 4 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 40000 and 40 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 40000 and 780 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 40000 and 78 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 45000 and 78000 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 45000 and 78.23 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 45000 and 78 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 230 and 78 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 230 and 78 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 235000 and 544 received for division","service":"calculate-service"}
